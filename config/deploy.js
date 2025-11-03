@@ -3,6 +3,9 @@
 module.exports = function (deployTarget) {
   let ENV = {
     build: {},
+    git: {
+      repo: 'https://github.com/gokulan04/ember-clipboard-for-doc-test.git',
+    },
     // include other plugin configuration that applies to all deploy targets here
   };
 
