@@ -4,5 +4,17 @@
     "name": "main",
     "sha": "0fe637fa3a3a2b5fe45d2e9e4a5c2a23ae87eb58",
     "tag": null
+  },
+  "v0.0.1": {
+    "path": "versions\\v0.0.1",
+    "name": "v0.0.1",
+    "sha": "0fe637fa3a3a2b5fe45d2e9e4a5c2a23ae87eb58",
+    "tag": "v0.0.1"
+  },
+  "-latest": {
+    "path": "",
+    "name": "Latest",
+    "sha": "0fe637fa3a3a2b5fe45d2e9e4a5c2a23ae87eb58",
+    "tag": "v0.0.1"
   }
 }
